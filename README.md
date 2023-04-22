@@ -16,7 +16,7 @@
 
 ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
 
-![Paulo Henrique](https://github-readme-stats.vercel.app/api?username=PauloHenrique537&show_icons=true&theme=merko)
+![Snake animation](https://github.com/PauloHenrique537/PauloHenrique537/blob/output/github-contribution-grid-snake.svg)
 
 ## Tecnologia  que eu uso no meu dia
 
