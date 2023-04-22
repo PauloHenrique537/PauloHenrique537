@@ -16,7 +16,6 @@
 
 ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
 
-![Snake animation](https://github.com/PauloHenrique537/PauloHenrique537/blob/output/github-contribution-grid-snake.svg)
 
 ## Tecnologia  que eu uso no meu dia
 
@@ -47,3 +46,5 @@ Apaixonado por Tecnologia, educação e mudar a vida das pessoas através da pro
 ## Últimos videos:
 - [O que estudr para ser desenvolvedor de Front-end 2023](https://www.youtube.com/watch?v=Ab-kGzlCCWI)<br/>
 - [Aprendendo e conhecendo o Figma](https://www.youtube.com/watch?v=Qodw1TuZslU)
+
+![Snake animation](https://github.com/PauloHenrique537/PauloHenrique537/blob/output/github-contribution-grid-snake.svg)
